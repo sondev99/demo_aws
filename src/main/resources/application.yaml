@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+amazon:
+  dynamodb:
+    endpoint: ""
+  aws:
+    access_key: "AKIA4MDHJLOQAIPFULQE"
+    secret_key: "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"
+
